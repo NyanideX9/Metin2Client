@@ -1,0 +1,15 @@
+C:\Marty 5.5\Src-Client\Client\eterGrnLib\LODController.cpp;C:\Marty 5.5\Src-Client\Client\eterGrnLib\Distribute\LODController.obj
+C:\Marty 5.5\Src-Client\Client\eterGrnLib\Material.cpp;C:\Marty 5.5\Src-Client\Client\eterGrnLib\Distribute\Material.obj
+C:\Marty 5.5\Src-Client\Client\eterGrnLib\Mesh.cpp;C:\Marty 5.5\Src-Client\Client\eterGrnLib\Distribute\Mesh.obj
+C:\Marty 5.5\Src-Client\Client\eterGrnLib\Model.cpp;C:\Marty 5.5\Src-Client\Client\eterGrnLib\Distribute\Model.obj
+C:\Marty 5.5\Src-Client\Client\eterGrnLib\ModelInstance.cpp;C:\Marty 5.5\Src-Client\Client\eterGrnLib\Distribute\ModelInstance.obj
+C:\Marty 5.5\Src-Client\Client\eterGrnLib\ModelInstanceCollisionDetection.cpp;C:\Marty 5.5\Src-Client\Client\eterGrnLib\Distribute\ModelInstanceCollisionDetection.obj
+C:\Marty 5.5\Src-Client\Client\eterGrnLib\ModelInstanceModel.cpp;C:\Marty 5.5\Src-Client\Client\eterGrnLib\Distribute\ModelInstanceModel.obj
+C:\Marty 5.5\Src-Client\Client\eterGrnLib\ModelInstanceMotion.cpp;C:\Marty 5.5\Src-Client\Client\eterGrnLib\Distribute\ModelInstanceMotion.obj
+C:\Marty 5.5\Src-Client\Client\eterGrnLib\ModelInstanceRender.cpp;C:\Marty 5.5\Src-Client\Client\eterGrnLib\Distribute\ModelInstanceRender.obj
+C:\Marty 5.5\Src-Client\Client\eterGrnLib\ModelInstanceUpdate.cpp;C:\Marty 5.5\Src-Client\Client\eterGrnLib\Distribute\ModelInstanceUpdate.obj
+C:\Marty 5.5\Src-Client\Client\eterGrnLib\Motion.cpp;C:\Marty 5.5\Src-Client\Client\eterGrnLib\Distribute\Motion.obj
+C:\Marty 5.5\Src-Client\Client\eterGrnLib\StdAfx.cpp;C:\Marty 5.5\Src-Client\Client\eterGrnLib\Distribute\StdAfx.obj
+C:\Marty 5.5\Src-Client\Client\eterGrnLib\Thing.cpp;C:\Marty 5.5\Src-Client\Client\eterGrnLib\Distribute\Thing.obj
+C:\Marty 5.5\Src-Client\Client\eterGrnLib\ThingInstance.cpp;C:\Marty 5.5\Src-Client\Client\eterGrnLib\Distribute\ThingInstance.obj
+C:\Marty 5.5\Src-Client\Client\eterGrnLib\Util.cpp;C:\Marty 5.5\Src-Client\Client\eterGrnLib\Distribute\Util.obj
